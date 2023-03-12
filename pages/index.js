@@ -69,7 +69,7 @@ export default function Home() {
             <h2 className={inter.className}>
               Docs <span>-&gt;</span>
             </h2>
-            <p className={inter.className}>
+            <p className='text-green-400'>
               Find in-depth information about Next.js features and&nbsp;API.
             </p>
           </a>
